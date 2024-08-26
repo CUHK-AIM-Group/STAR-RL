@@ -3,6 +3,7 @@
 This is the implementation of our TMI 2024 [paper](https://ieeexplore.ieee.org/document/10574839):<br>
 STAR-RL: Spatial-temporal Hierarchical Reinforcement Learning for Interpretable Pathology Image Super-Resolution
 
+<img src="overview.png" width="100%"/>
 
 ```
 @article{chen2024star,
